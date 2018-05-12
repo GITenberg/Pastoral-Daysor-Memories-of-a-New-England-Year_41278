@@ -1,0 +1,30 @@
+_repo: Pastoral-Daysor-Memories-of-a-New-England-Year_41278
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41278-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gibson, W. Hamilton (William Hamilton)
+    alias: Gibson, William Hamilton
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '7134'
+    url: http://www.gutenberg.org/2009/agents/7134
+    wikipedia: http://en.wikipedia.org/wiki/William_Hamilton_Gibson
+description: ''
+gutenberg_issued: '2012-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41278'
+  lccn: '15000371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Natural history -- Outdoor books'
+- !lcsh 'Natural history -- New England'
+title: Pastoral Days; or, Memories of a New England Year
+url: http://www.gutenberg.org/ebooks/41278
